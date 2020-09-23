@@ -1,1 +1,8 @@
-theme: jekyll-theme-cayman
+
+title: Apartment Ocean Guides
+logo: "/assets/images/apartmentoceanlogo.png"
+description: Apartment Ocean installation Guides
+theme: just-the-docs
+
+plugins:
+  - "jekyll-github-metadata"

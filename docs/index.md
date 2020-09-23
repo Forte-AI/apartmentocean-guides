@@ -1,3 +1,10 @@
+---
+layout: default
+title: Home
+description: Please find our installation guides here
+nav_order: 1
+---
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Forte-AI/apartmentocean-guides/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.

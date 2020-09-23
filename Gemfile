@@ -9,5 +9,6 @@ gem 'rspec'
 # gem 'jekyll', '3.9.0'
 gem 'github-pages', "~> 207", group: :jekyll_plugins
 gem "just-the-docs"
-gem 'activesupport', '~> 5.0'
+gem "rake"
+ruby "2.7.1"
 # gem "rails"

@@ -1,4 +1,6 @@
 # apartmentocean-guides
+The content site uses Jekyll
+
 ## Run the site locally
 ### Install Ruby, Jekyll
 more details: https://jekyllrb.com/docs/installation/macos/

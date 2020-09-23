@@ -2,7 +2,7 @@
 The content site uses Jekyll
 
 ## Run the site locally
-### Install Ruby, Jekyll
+### Install Ruby, Bundle, Jekyll
 more details: https://jekyllrb.com/docs/installation/macos/
 
 ### After install, run the code below to start the local server

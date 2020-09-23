@@ -2,25 +2,25 @@
     "doc": "Installation guides",
     "title": "Installation guides",
     "content": "UI Components To make it as easy as possible to write documentation in plain Markdown, most UI components are styled using default Markdown elements with few additional CSS classes needed. TABLE OF CONTENTS Typography Buttons Labels Tables Lists Code . ",
-    "url": "/installation-guides/",
+    "url": "http://localhost:4000/installation-guides/",
     "relUrl": "/installation-guides/"
   },"1": {
     "doc": "Home",
     "title": "Welcome to GitHub Pages",
     "content": "You can use the editor on GitHub to maintain and preview the content for your website in Markdown files. Whenever you commit to this repository, GitHub Pages will run Jekyll to rebuild the pages in your site, from the content in your Markdown files. Markdown . Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for . Syntax highlighted code block # Header 1 ## Header 2 ### Header 3 - Bulleted - List 1. Numbered 2. List **Bold** and _Italic_ and `Code` text [Link](url) and ![Image](src) . For more details see GitHub Flavored Markdown. Jekyll Themes . Your Pages site will use the layout and styles from the Jekyll theme you have selected in your repository settings. The name of this theme is saved in the Jekyll _config.yml configuration file. Support or Contact . Having trouble with Pages? Check out our documentation or contact support and we’ll help you sort it out. ",
-    "url": "/#welcome-to-github-pages",
+    "url": "http://localhost:4000/#welcome-to-github-pages",
     "relUrl": "/#welcome-to-github-pages"
   },"2": {
     "doc": "Home",
     "title": "Home",
     "content": " ",
-    "url": "/",
+    "url": "http://localhost:4000/",
     "relUrl": "/"
   },"3": {
     "doc": "Lodgify",
     "title": "Lodgify",
     "content": "Lodgify &amp; Apartment Ocean: Installation Tutorial Installing Apartment Ocean on Lodgify Websites is a simple process. There are two steps in order to do it: 1.) first we need to copy the Apartment Ocean script and then 2.) paste the script to the Widget section of Lodgify Websites. Detailed installation instructions are below. 1.) Getting the Apartment Ocean script a.) Chatbot Install . | Log in to your Apartment Ocean account, hover over the left sidebar menu and click on “Chatbot Install”. | . b.) Copy the Apartment Ocean script (code snippet) . | Once you are in the “Chatbot Install” section, click “Copy” (as seen in the picture). | . 2.) Installing Apartment Ocean on Lodgify Websites . a.) Lodgify Pages . | Log in to your Lodgify account | On the left sidebar menu, find “Websites” | . b.) Pages . | Once you clicked on the “Websites” option, the default section will be “Templates” -&gt; please go to the “Pages” section (as seen in the picture) | . c.) Add New Widget . | In the “Pages” section, click the “Add New Widget” button (see the picture). | And choose “Raw HTML” (as seen in the picture) . | . d.) Paste the code script . | Paste the Apartment Ocean script and click the “Save” button (as seen in the picture below). | . ",
-    "url": "/installation-guides/lodgify.html",
+    "url": "http://localhost:4000/installation-guides/lodgify.html",
     "relUrl": "/installation-guides/lodgify.html"
   }
 }

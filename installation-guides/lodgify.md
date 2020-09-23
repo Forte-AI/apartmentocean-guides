@@ -12,7 +12,7 @@ Installing Apartment Ocean on Lodgify Websites is a simple process. There are tw
 a.) Chatbot Install
 -	Log in to your Apartment Ocean account, hover over the left sidebar menu and click on “Chatbot Install”. 
 
-![Image](/assets/images/lg1.png)
+<img src="/assets/images/lg1.png" width="250px">
 
 b.) Copy the Apartment Ocean script (code snippet)
 -	Once you are in the “Chatbot Install” section, click “Copy” (as seen in the picture). 

@@ -3,8 +3,10 @@ title: Apartment Ocean Guides
 logo: "/assets/images/apartmentoceanlogo.png"
 description: Apartment Ocean installation Guides
 theme: just-the-docs
+color_scheme: webchat
 
 plugins:
   - "jekyll-github-metadata"
 
 exclude: ['vendor']
+

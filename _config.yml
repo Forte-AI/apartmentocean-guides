@@ -10,3 +10,6 @@ plugins:
 
 exclude: ['vendor']
 
+# Footer content 
+# appears at the bottom of every page's main content
+footer_content: "&copy Apartment Ocean 2020 All Rights Reserved"

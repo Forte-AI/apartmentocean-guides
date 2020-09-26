@@ -19,7 +19,8 @@ layout: default
 title: "PAGE TITLE"
 ---
 ```
-The site is using **Just the docs theme**. More details for adding content and making format changes: https://jekyllthemes.io/theme/just-the-docs
+The site is using **Just the docs theme**. More details for adding content and making format changes:
+https://jekyllthemes.io/theme/just-the-docs
 
 ## Write new articles
 Create tutorial_name.md in the root to add new articles

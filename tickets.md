@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Contact center
-description: Contacts center in Apartment Ocean dashboard
+title: Tickets
+description: Tickets in Apartment Ocean dashboard
 nav_order: 10
 ---
 
-# Contact center -- Apartment Ocean User Tutorials
+# Tickets -- Apartment Ocean User Tutorials
 
-## Contact Center
+## Contact Us
 
 If you want to contact Apartment Ocean, whether it’s a simple question or a request to add a new FAQ, please go to “Tickets” section and send us your inquiry.
 

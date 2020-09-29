@@ -1,3 +1,9 @@
+---
+layout: default
+title: README
+nav_exclude: true
+---
+
 # apartmentocean-guides
 The content site uses Jekyll
 

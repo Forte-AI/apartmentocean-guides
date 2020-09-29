@@ -1,422 +1,494 @@
 {"0": {
+    "doc": "README",
+    "title": "apartmentocean-guides",
+    "content": "The content site uses Jekyll . ",
+    "url": "http://localhost:4000/README.html#apartmentocean-guides",
+    "relUrl": "/README.html#apartmentocean-guides"
+  },"1": {
+    "doc": "README",
+    "title": "Run the site locally",
+    "content": "Install Ruby, Bundle, Jekyll . more details: https://jekyllrb.com/docs/installation/macos/ . After install, run the code below to start the local server . bundle exec jekyll serve . ",
+    "url": "http://localhost:4000/README.html#run-the-site-locally",
+    "relUrl": "/README.html#run-the-site-locally"
+  },"2": {
+    "doc": "README",
+    "title": "Add a new page",
+    "content": "Add the following YAML frontmatter to the top of the file . --- layout: default title: \"PAGE TITLE\" --- . The site is using Just the docs theme. More details for adding content and making format changes: https://jekyllthemes.io/theme/just-the-docs . ",
+    "url": "http://localhost:4000/README.html#add-a-new-page",
+    "relUrl": "/README.html#add-a-new-page"
+  },"3": {
+    "doc": "README",
+    "title": "Write new articles",
+    "content": "Create tutorial_name.md in the root to add new articles . ",
+    "url": "http://localhost:4000/README.html#write-new-articles",
+    "relUrl": "/README.html#write-new-articles"
+  },"4": {
+    "doc": "README",
+    "title": "Deploy the content to Heroku",
+    "content": "git push heroku master . ",
+    "url": "http://localhost:4000/README.html#deploy-the-content-to-heroku",
+    "relUrl": "/README.html#deploy-the-content-to-heroku"
+  },"5": {
+    "doc": "README",
+    "title": "README",
+    "content": " ",
+    "url": "http://localhost:4000/README.html",
+    "relUrl": "/README.html"
+  },"6": {
     "doc": "Command center",
     "title": "Command Center – Apartment Ocean User Tutorials",
     "content": "Command Center is a place where you can manage quick replies (Commands) and add/edit the answers to frequently asked questions (Smart FAQ). ",
-    "url": "http://localhost:4000/command%20center.html#command-center--apartment-ocean-user-tutorials",
-    "relUrl": "/command%20center.html#command-center--apartment-ocean-user-tutorials"
-  },"1": {
+    "url": "http://localhost:4000/docs/command-center/command-center.html#command-center--apartment-ocean-user-tutorials",
+    "relUrl": "/docs/command-center/command-center.html#command-center--apartment-ocean-user-tutorials"
+  },"7": {
     "doc": "Command center",
     "title": "How to access Command Center?",
     "content": "Log in to your Apartment Ocean account, hover over the left sidebar menu and click on the menu item “Command Center” to access it. ",
-    "url": "http://localhost:4000/command%20center.html#how-to-access-command-center",
-    "relUrl": "/command%20center.html#how-to-access-command-center"
-  },"2": {
+    "url": "http://localhost:4000/docs/command-center/command-center.html#how-to-access-command-center",
+    "relUrl": "/docs/command-center/command-center.html#how-to-access-command-center"
+  },"8": {
     "doc": "Command center",
     "title": "Commands and Smart FAQ",
     "content": " ",
-    "url": "http://localhost:4000/command%20center.html#commands-and-smart-faq",
-    "relUrl": "/command%20center.html#commands-and-smart-faq"
-  },"3": {
+    "url": "http://localhost:4000/docs/command-center/command-center.html#commands-and-smart-faq",
+    "relUrl": "/docs/command-center/command-center.html#commands-and-smart-faq"
+  },"9": {
     "doc": "Command center",
     "title": "1. Commands",
     "content": "Commands are quick replies that are shown as buttons on the widget. Instead of typing, users can click on Commands and get the information they need. Once you click on the “Command Center” button, you will see a section called “Command sets for chatbot”. This is where you can manage Commands. How to edit Commands? . a. Click on the pencil icon next to Command; . b. Delete the existing Command and write your own Command. Click “Save” (as seen in the picture below). The change will be saved instantly, and the Command will be ready to be used; . Tips . Commands correspond with the Smart FAQs. There’s a place in the Smart FAQ section called “Suggested Quick Reply Option”, which serves as a suggestion for your Command. ",
-    "url": "http://localhost:4000/command%20center.html#1-commands",
-    "relUrl": "/command%20center.html#1-commands"
-  },"4": {
+    "url": "http://localhost:4000/docs/command-center/command-center.html#1-commands",
+    "relUrl": "/docs/command-center/command-center.html#1-commands"
+  },"10": {
     "doc": "Command center",
     "title": "2. Smart FAQ",
     "content": "Smart FAQ is a query that chatbot can recognize, understand and provide an answer to. In this part, you will be able to see all FAQs that the chatbot can understand and where you can add or edit answers to FAQs. How to add/edit Smart FAQ? . a. Click on the pencil button next to the FAQ; . b. Add/edit the answer in the “Bot Answers” window, click “Save”. Your change is immediately saved and whenever users ask a question that will trigger this Smart FAQ, chatbot will provide your new answer; . ",
-    "url": "http://localhost:4000/command%20center.html#2-smart-faq",
-    "relUrl": "/command%20center.html#2-smart-faq"
-  },"5": {
-    "doc": "Command center",
-    "title": "Turn off the chatbot",
-    "content": "If your leasing representatives are available and want to take over the chat, you can turn off the chatbot. This will disable the chatbot (no more automatic answers) and your representatives can chat directly with the user. How to turn off the chatbot? . Hover over the left sidebar menu, go to the “Messages” section and click on the “Use Bot” button; the chatbot will be disabled for that particular chat. If you’d like to turn it back on, click on the “Use Bot” button again and if there’s a blue color, the chatbot is on again. Tips . You can turn off the chatbot globally, not just for a particular chat but for every new chat you receive, so Apartment Ocean becomes a live-chat tool and your representatives can chat with users. If you’d like to completely turn off the chatbot, hover over the left sidebar menu, go to Widget Customization -&gt; Use Chatbot, and turn it off. ",
-    "url": "http://localhost:4000/command%20center.html#turn-off-the-chatbot",
-    "relUrl": "/command%20center.html#turn-off-the-chatbot"
-  },"6": {
+    "url": "http://localhost:4000/docs/command-center/command-center.html#2-smart-faq",
+    "relUrl": "/docs/command-center/command-center.html#2-smart-faq"
+  },"11": {
     "doc": "Command center",
     "title": "Command center",
     "content": " ",
-    "url": "http://localhost:4000/command%20center.html",
-    "relUrl": "/command%20center.html"
-  },"7": {
+    "url": "http://localhost:4000/docs/command-center/command-center.html",
+    "relUrl": "/docs/command-center/command-center.html"
+  },"12": {
     "doc": "Contacts",
     "title": "Contacts – Apartment Ocean User Tutorials",
     "content": " ",
     "url": "http://localhost:4000/contacts.html#contacts--apartment-ocean-user-tutorials",
     "relUrl": "/contacts.html#contacts--apartment-ocean-user-tutorials"
-  },"8": {
+  },"13": {
     "doc": "Contacts",
     "title": "Contact Management",
     "content": "As soon as a user engages with Apartment Ocean, a new contact is created. Every contact is stored in the “Contacts” part in your Dashboard. To access leads, please hover on the left sidebar menu and click on “Contacts”. In the “Contacts” section, you will find several data points included in the lead. The contact consists user’s contact information, such as name. email address and phone number. You control what contact information that Apartment Ocean captures (“Widget Customization” -&gt; Option 6) . Along with the contact information, Apartment Ocean also captures three other data points: . | User’s referral source (website or page prior to the page where the user initiated the chat); . | Actual page where the user initiated the chat; . | User’s device; . | . ",
     "url": "http://localhost:4000/contacts.html#contact-management",
     "relUrl": "/contacts.html#contact-management"
-  },"9": {
+  },"14": {
     "doc": "Contacts",
     "title": "Contacts",
     "content": " ",
     "url": "http://localhost:4000/contacts.html",
     "relUrl": "/contacts.html"
-  },"10": {
-    "doc": "Installation Tutorial",
-    "title": "Apartment Ocean Installation Tutorial",
-    "content": "AO Assistant family makes your business available 24/7 and help you deliver fast and effective communication. The main function of the AO Assistant is to understand what customers need on your website and provide necessary information. You can find our installation tutorials here . ",
-    "url": "http://localhost:4000/installation-guides/#apartment-ocean-installation-tutorial",
-    "relUrl": "/installation-guides/#apartment-ocean-installation-tutorial"
-  },"11": {
-    "doc": "Installation Tutorial",
-    "title": "Install Apartment Ocean widget on your website",
-    "content": "Installing Apartment Ocean on your websites is a simple. Log in to your Apartment Ocean account and click on “Chatbot Install” in the menu. Copy and paste the Apartment Ocean code snippet to your website before the &lt;/body&gt; tag. You can also find our install tutorials for most used third party software here too. ",
-    "url": "http://localhost:4000/installation-guides/#install-apartment-ocean-widget-on-your-website",
-    "relUrl": "/installation-guides/#install-apartment-ocean-widget-on-your-website"
-  },"12": {
-    "doc": "Installation Tutorial",
-    "title": "Installation Tutorial",
-    "content": " ",
-    "url": "http://localhost:4000/installation-guides/",
-    "relUrl": "/installation-guides/"
-  },"13": {
+  },"15": {
     "doc": "Home",
     "title": "Apartment Ocean User Tutorials",
     "content": " ",
     "url": "http://localhost:4000/#apartment-ocean-user-tutorials",
     "relUrl": "/#apartment-ocean-user-tutorials"
-  },"14": {
+  },"16": {
     "doc": "Home",
     "title": "Welcome to Apartment Ocean",
-    "content": "Chatbot is an important part of Apartment Ocean software; it will make your company available 24/7 and help you increase user conversion and engagement. The main function of the chatbot is to understand what users need on your website and provide necessary information. ",
+    "content": "Apartment Ocean makes your company available 24/7 to your customers and help you increase user conversion and engagement. The main function of the Apartment Ocean is to understand what users need on your website and provide necessary information. We will show you how to use Apartment Ocean dashboard here. ",
     "url": "http://localhost:4000/#welcome-to-apartment-ocean",
     "relUrl": "/#welcome-to-apartment-ocean"
-  },"15": {
+  },"17": {
     "doc": "Home",
     "title": "Home",
     "content": " ",
     "url": "http://localhost:4000/",
     "relUrl": "/"
-  },"16": {
+  },"18": {
+    "doc": "Insert pictures",
+    "title": "Insert pictures in the answers",
+    "content": "The command center supports the HTML language. To insert a picture in the answers, you need to place a tag in the answers. ",
+    "url": "http://localhost:4000/docs/command-center/insert-picture.html#insert-pictures-in-the-answers",
+    "relUrl": "/docs/command-center/insert-picture.html#insert-pictures-in-the-answers"
+  },"19": {
+    "doc": "Insert pictures",
+    "title": "Step 1: Click the Edit icon on the intent",
+    "content": "Click the icon to start editing the answers for the intent. and you will see a text field where you can write your own answer. ",
+    "url": "http://localhost:4000/docs/command-center/insert-picture.html#step-1-click-the-edit-icon-on-the-intent",
+    "relUrl": "/docs/command-center/insert-picture.html#step-1-click-the-edit-icon-on-the-intent"
+  },"20": {
+    "doc": "Insert pictures",
+    "title": "Step 2: Insert the picture",
+    "content": "If you would like to show the picture on top of your answer, you need to add an &lt;img&gt; with the link to your pictures. The example below shows your how to add a picture from a Google search. The same method works on all the websites. We did a google picture search and found a picture we’d like to show to users. We can right click the picture and choose Copy Image Address to copy the link of your picture. In this example, our Image Address is https://www.gannett-cdn.com/media/2018/12/15/USATODAY/usatsports/MotleyFool-TMOT-657f0436-21e9af86.jpg . We go back to our answers and paste the link in an image tag like this: . &lt;img src=\"https:\\//www.gannett-cdn.com/media/2018/12/15/USATODAY/usatsports/MotleyFool-TMOT-657f0436-21e9af86.jpg\" width=\"230\"&gt; . PAY ATTENTION HERE: We must add a ‘\\’ between ‘:’ and ‘//’. Or the widget would not show the picture correctly. We can add a width to the picture too. Our recommended width is 230 pixels. If you’d like to add other HTML attributes such as “height”, you can play with that too. ",
+    "url": "http://localhost:4000/docs/command-center/insert-picture.html#step-2-insert-the-picture",
+    "relUrl": "/docs/command-center/insert-picture.html#step-2-insert-the-picture"
+  },"21": {
+    "doc": "Insert pictures",
+    "title": "Step 3: Click the “Save” button to save your answer",
+    "content": "Click the green “Save” button to save your answers. So, when user asks about this intent, your chatbot will show the picture along with the text you just wrote to your users. ",
+    "url": "http://localhost:4000/docs/command-center/insert-picture.html#step-3-click-the-save-button-to-save-your-answer",
+    "relUrl": "/docs/command-center/insert-picture.html#step-3-click-the-save-button-to-save-your-answer"
+  },"22": {
+    "doc": "Insert pictures",
+    "title": "Insert pictures",
+    "content": " ",
+    "url": "http://localhost:4000/docs/command-center/insert-picture.html",
+    "relUrl": "/docs/command-center/insert-picture.html"
+  },"23": {
+    "doc": "Installation Tutorial",
+    "title": "Apartment Ocean Installation Tutorial",
+    "content": "AO Assistant family makes your business available 24/7 and help you deliver fast and effective communication. The main function of the AO Assistant is to understand what customers need on your website and provide necessary information. You can find our installation tutorials here . ",
+    "url": "http://localhost:4000/docs/installation-guides/installation-guides.html#apartment-ocean-installation-tutorial",
+    "relUrl": "/docs/installation-guides/installation-guides.html#apartment-ocean-installation-tutorial"
+  },"24": {
+    "doc": "Installation Tutorial",
+    "title": "Install Apartment Ocean widget on your website",
+    "content": "Installing Apartment Ocean on your websites is a simple. Log in to your Apartment Ocean account and click on “Chatbot Install” in the menu. Copy and paste the Apartment Ocean code snippet to your website before the &lt;/body&gt; tag. You can also find our install tutorials for most used third party software here too. ",
+    "url": "http://localhost:4000/docs/installation-guides/installation-guides.html#install-apartment-ocean-widget-on-your-website",
+    "relUrl": "/docs/installation-guides/installation-guides.html#install-apartment-ocean-widget-on-your-website"
+  },"25": {
+    "doc": "Installation Tutorial",
+    "title": "Installation Tutorial",
+    "content": " ",
+    "url": "http://localhost:4000/docs/installation-guides/installation-guides.html",
+    "relUrl": "/docs/installation-guides/installation-guides.html"
+  },"26": {
     "doc": "Integrations",
     "title": "Apps &amp; Integration – Apartment Ocean User Tutorials",
     "content": "Log in to your account and you’ll find Apps &amp; Integrations in the “Menu”. Apartment Ocean has three integrations to allow PMCs an easy way to export their leads. These integrations are with: . 1.) Hubspot; . 2.) Salesforce; . 3.) Google Drive; . Let’s see how simple it is to export leads from Apartment Ocean to these systems. ",
-    "url": "http://localhost:4000/integrations.html#apps--integration--apartment-ocean-user-tutorials",
-    "relUrl": "/integrations.html#apps--integration--apartment-ocean-user-tutorials"
-  },"17": {
+    "url": "http://localhost:4000/docs/integrations.html#apps--integration--apartment-ocean-user-tutorials",
+    "relUrl": "/docs/integrations.html#apps--integration--apartment-ocean-user-tutorials"
+  },"27": {
     "doc": "Integrations",
     "title": "1. Hubspot integration",
     "content": "Hubspot is one of the leading marketing software, especially for small to medium companies . To export leads from Apartment Ocean to Hubspot, you only needs to input their Hubspot API key in the field and press submit (as seen below) . After PMC submitted the request, they will find their Apartment Ocean inside Hubspot . ",
-    "url": "http://localhost:4000/integrations.html#1-hubspot-integration",
-    "relUrl": "/integrations.html#1-hubspot-integration"
-  },"18": {
+    "url": "http://localhost:4000/docs/integrations.html#1-hubspot-integration",
+    "relUrl": "/docs/integrations.html#1-hubspot-integration"
+  },"28": {
     "doc": "Integrations",
     "title": "2. Salesforce integration",
     "content": "Salesforce is the leading CRM system. To export leads from Apartment Ocean directly to Salesforce, you need to put their Salesforce login info (username and password) and provide an Salesforce Access Token. Access Token can be found in the Salesforce account. Click on the “Submit” button (as seen below) after putting the Salesforce Username, Password and Access Token in their designated fields. After the request has been submitted, you will find their Apartment Ocean leads in their Salesforce system . ",
-    "url": "http://localhost:4000/integrations.html#2-salesforce-integration",
-    "relUrl": "/integrations.html#2-salesforce-integration"
-  },"19": {
+    "url": "http://localhost:4000/docs/integrations.html#2-salesforce-integration",
+    "relUrl": "/docs/integrations.html#2-salesforce-integration"
+  },"29": {
     "doc": "Integrations",
     "title": "3. Google Drive integration",
     "content": "Google Drive is one of the most popular cloud storage services. To export Apartment Ocean leads to Google Drive, you need to: . 1.) Name the new Google spreadsheet (the name is automatically created, but you can change it); . 2.) Put your email address that is associated with your Google Drive; . 3.) Set the authorization level (write or read), as seen in the screenshot below; . After you put the information in designated fields, simply click on the “Create Google Sheet” button and the new Google spreadsheet with Apartment Ocean leads will be created in Google Drive. ",
-    "url": "http://localhost:4000/integrations.html#3-google-drive-integration",
-    "relUrl": "/integrations.html#3-google-drive-integration"
-  },"20": {
+    "url": "http://localhost:4000/docs/integrations.html#3-google-drive-integration",
+    "relUrl": "/docs/integrations.html#3-google-drive-integration"
+  },"30": {
     "doc": "Integrations",
     "title": "Integrations",
     "content": " ",
-    "url": "http://localhost:4000/integrations.html",
-    "relUrl": "/integrations.html"
-  },"21": {
+    "url": "http://localhost:4000/docs/integrations.html",
+    "relUrl": "/docs/integrations.html"
+  },"31": {
     "doc": "Kigo",
     "title": "Kigo &amp; Apartment Ocean: Installation Tutorial",
     "content": "Installing Apartment Ocean on Kigo Websites is a simple process. There are two steps in order to do it: . 1.) Copy the Apartment Ocean script; . 2.) Paste the script to the footer scripts section of Kigo Websites; . Detailed installation instructions are below. ",
-    "url": "http://localhost:4000/installation-guides/kigo.html#kigo--apartment-ocean-installation-tutorial",
-    "relUrl": "/installation-guides/kigo.html#kigo--apartment-ocean-installation-tutorial"
-  },"22": {
+    "url": "http://localhost:4000/docs/installation-guides/kigo.html#kigo--apartment-ocean-installation-tutorial",
+    "relUrl": "/docs/installation-guides/kigo.html#kigo--apartment-ocean-installation-tutorial"
+  },"32": {
     "doc": "Kigo",
     "title": "1. Getting the Apartment Ocean script",
     "content": "a. Chatbot Install . Log in to your Apartment Ocean account, hover over the left sidebar menu and click on “Chatbot Install”. b. Copy the Apartment Ocean script (code snippet) . Once you are in the “Chatbot Install” section, click “Copy” (as seen in the picture). ",
-    "url": "http://localhost:4000/installation-guides/kigo.html#1-getting-the-apartment-ocean-script",
-    "relUrl": "/installation-guides/kigo.html#1-getting-the-apartment-ocean-script"
-  },"23": {
+    "url": "http://localhost:4000/docs/installation-guides/kigo.html#1-getting-the-apartment-ocean-script",
+    "relUrl": "/docs/installation-guides/kigo.html#1-getting-the-apartment-ocean-script"
+  },"33": {
     "doc": "Kigo",
     "title": "2. Installing Apartment Ocean on Kigo Websites",
     "content": "a. Kigo Settings . | Log in to your Kigo Website administrator account. | On the left sidebar menu, find “Kigo Settings” and click on it. | . b. Advanced Settings . Once you clicked on “Kigo Settings”, the sidebar menu will expand. Click on the “Advanced” option. c. Paste the Apartment Ocean script . In the footer scripts section, paste the Apartment Ocean script and click “Save”. ",
-    "url": "http://localhost:4000/installation-guides/kigo.html#2-installing-apartment-ocean-on-kigo-websites",
-    "relUrl": "/installation-guides/kigo.html#2-installing-apartment-ocean-on-kigo-websites"
-  },"24": {
+    "url": "http://localhost:4000/docs/installation-guides/kigo.html#2-installing-apartment-ocean-on-kigo-websites",
+    "relUrl": "/docs/installation-guides/kigo.html#2-installing-apartment-ocean-on-kigo-websites"
+  },"34": {
     "doc": "Kigo",
     "title": "Kigo",
     "content": " ",
-    "url": "http://localhost:4000/installation-guides/kigo.html",
-    "relUrl": "/installation-guides/kigo.html"
-  },"25": {
+    "url": "http://localhost:4000/docs/installation-guides/kigo.html",
+    "relUrl": "/docs/installation-guides/kigo.html"
+  },"35": {
     "doc": "Lodgify",
     "title": "Lodgify &amp; Apartment Ocean: Installation Tutorial",
     "content": "Installing Apartment Ocean on Lodgify Websites is a simple process. There are two steps in order to do it: . 1.) Copy the Apartment Ocean script; . 2.) Paste the script to the Widget section of Lodgify Websites; . Detailed installation instructions are below. ",
-    "url": "http://localhost:4000/installation-guides/lodgify.html#lodgify--apartment-ocean-installation-tutorial",
-    "relUrl": "/installation-guides/lodgify.html#lodgify--apartment-ocean-installation-tutorial"
-  },"26": {
+    "url": "http://localhost:4000/docs/installation-guides/lodgify.html#lodgify--apartment-ocean-installation-tutorial",
+    "relUrl": "/docs/installation-guides/lodgify.html#lodgify--apartment-ocean-installation-tutorial"
+  },"36": {
     "doc": "Lodgify",
     "title": "1. Getting the Apartment Ocean script",
     "content": "a. Chatbot Install . Log in to your Apartment Ocean account, hover over the left sidebar menu and click on “Chatbot Install”. b. Copy the Apartment Ocean script (code snippet) . Once you are in the “Chatbot Install” section, click “Copy” (as seen in the picture). ",
-    "url": "http://localhost:4000/installation-guides/lodgify.html#1-getting-the-apartment-ocean-script",
-    "relUrl": "/installation-guides/lodgify.html#1-getting-the-apartment-ocean-script"
-  },"27": {
+    "url": "http://localhost:4000/docs/installation-guides/lodgify.html#1-getting-the-apartment-ocean-script",
+    "relUrl": "/docs/installation-guides/lodgify.html#1-getting-the-apartment-ocean-script"
+  },"37": {
     "doc": "Lodgify",
     "title": "2. Installing Apartment Ocean on Lodgify Websites",
     "content": "a. Lodgify Pages . | Log in to your Lodgify account; | On the left sidebar menu, find “Websites”; | . b. Pages . Once you clicked on the “Websites” option, the default section will be “Templates” -&gt; please go to the “Pages” section. c. Add New Widget . In the “Pages” section, click the “Add New Widget” button. And choose “Raw HTML”. d. Paste the code script . Paste the Apartment Ocean script and click the “Save” button. ",
-    "url": "http://localhost:4000/installation-guides/lodgify.html#2-installing-apartment-ocean-on-lodgify-websites",
-    "relUrl": "/installation-guides/lodgify.html#2-installing-apartment-ocean-on-lodgify-websites"
-  },"28": {
+    "url": "http://localhost:4000/docs/installation-guides/lodgify.html#2-installing-apartment-ocean-on-lodgify-websites",
+    "relUrl": "/docs/installation-guides/lodgify.html#2-installing-apartment-ocean-on-lodgify-websites"
+  },"38": {
     "doc": "Lodgify",
     "title": "Lodgify",
     "content": " ",
-    "url": "http://localhost:4000/installation-guides/lodgify.html",
-    "relUrl": "/installation-guides/lodgify.html"
-  },"29": {
+    "url": "http://localhost:4000/docs/installation-guides/lodgify.html",
+    "relUrl": "/docs/installation-guides/lodgify.html"
+  },"39": {
     "doc": "Messages",
     "title": "Messages – Apartment Ocean User Tutorials",
     "content": " ",
-    "url": "http://localhost:4000/message.html#messages--apartment-ocean-user-tutorials",
-    "relUrl": "/message.html#messages--apartment-ocean-user-tutorials"
-  },"30": {
+    "url": "http://localhost:4000/docs/message.html#messages--apartment-ocean-user-tutorials",
+    "relUrl": "/docs/message.html#messages--apartment-ocean-user-tutorials"
+  },"40": {
     "doc": "Messages",
     "title": "Messages",
     "content": "This is the part where the entire conversation between users and the chatbot is stored. This is also the part where the property managers can chat with users themselves, if they have turned off the chatbot. To access this section, please log in to your account and click on the “Messages” button in the “Menu”, as pictured below. All previous conversations and current conversations can be seen in the “Messages” section. On the right side, you have the option to quickly find any previous conversation in the search bar. Type in the name of the user and the conversation with that user will be shown in results. ",
-    "url": "http://localhost:4000/message.html",
-    "relUrl": "/message.html"
-  },"31": {
+    "url": "http://localhost:4000/docs/message.html",
+    "relUrl": "/docs/message.html"
+  },"41": {
     "doc": "Squarespace",
     "title": "Installing Apartment Ocean on Squarespace websites",
     "content": "This is a tutorial to install Apartment Ocean on Squarespace websites. ",
-    "url": "http://localhost:4000/installation-guides/squarespace.html#installing-apartment-ocean-on-squarespace-websites",
-    "relUrl": "/installation-guides/squarespace.html#installing-apartment-ocean-on-squarespace-websites"
-  },"32": {
+    "url": "http://localhost:4000/docs/installation-guides/squarespace.html#installing-apartment-ocean-on-squarespace-websites",
+    "relUrl": "/docs/installation-guides/squarespace.html#installing-apartment-ocean-on-squarespace-websites"
+  },"42": {
     "doc": "Squarespace",
     "title": "Step 1: Log In to your dashboard on Squarespace.com",
     "content": ". ",
-    "url": "http://localhost:4000/installation-guides/squarespace.html#step-1-log-in-to-your-dashboard-on-squarespacecom",
-    "relUrl": "/installation-guides/squarespace.html#step-1-log-in-to-your-dashboard-on-squarespacecom"
-  },"33": {
+    "url": "http://localhost:4000/docs/installation-guides/squarespace.html#step-1-log-in-to-your-dashboard-on-squarespacecom",
+    "relUrl": "/docs/installation-guides/squarespace.html#step-1-log-in-to-your-dashboard-on-squarespacecom"
+  },"43": {
     "doc": "Squarespace",
     "title": "Step 2: Click the SETTINGS button on the left",
     "content": "Find the menu on the left side of the browser, then click the SETTINGS. ",
-    "url": "http://localhost:4000/installation-guides/squarespace.html#step-2-click-the-settings-button-on-the-left",
-    "relUrl": "/installation-guides/squarespace.html#step-2-click-the-settings-button-on-the-left"
-  },"34": {
+    "url": "http://localhost:4000/docs/installation-guides/squarespace.html#step-2-click-the-settings-button-on-the-left",
+    "relUrl": "/docs/installation-guides/squarespace.html#step-2-click-the-settings-button-on-the-left"
+  },"44": {
     "doc": "Squarespace",
     "title": "Step 3: Choose “Advanced” on the menu",
     "content": "Click the “Advanced” option on the list. ",
-    "url": "http://localhost:4000/installation-guides/squarespace.html#step-3-choose-advanced-on-the-menu",
-    "relUrl": "/installation-guides/squarespace.html#step-3-choose-advanced-on-the-menu"
-  },"35": {
+    "url": "http://localhost:4000/docs/installation-guides/squarespace.html#step-3-choose-advanced-on-the-menu",
+    "relUrl": "/docs/installation-guides/squarespace.html#step-3-choose-advanced-on-the-menu"
+  },"45": {
     "doc": "Squarespace",
     "title": "Step 4: Copy and Paste install code from Apartment Ocean Dashboard",
     "content": "Find the widget install code in your Apartment Ocean account (“Chatbot Install” section), and then copy to the Footer field. ",
-    "url": "http://localhost:4000/installation-guides/squarespace.html#step-4-copy-and-paste-install-code-from-apartment-ocean-dashboard",
-    "relUrl": "/installation-guides/squarespace.html#step-4-copy-and-paste-install-code-from-apartment-ocean-dashboard"
-  },"36": {
+    "url": "http://localhost:4000/docs/installation-guides/squarespace.html#step-4-copy-and-paste-install-code-from-apartment-ocean-dashboard",
+    "relUrl": "/docs/installation-guides/squarespace.html#step-4-copy-and-paste-install-code-from-apartment-ocean-dashboard"
+  },"46": {
     "doc": "Squarespace",
     "title": "Step 5: Save and Enjoy the Chatbot",
     "content": "Click the save button and you will see the Apartment Ocean widget appear on the right side of your website. You can adjust the position in your Apartment Ocean account. ",
-    "url": "http://localhost:4000/installation-guides/squarespace.html#step-5-save-and-enjoy-the-chatbot",
-    "relUrl": "/installation-guides/squarespace.html#step-5-save-and-enjoy-the-chatbot"
-  },"37": {
+    "url": "http://localhost:4000/docs/installation-guides/squarespace.html#step-5-save-and-enjoy-the-chatbot",
+    "relUrl": "/docs/installation-guides/squarespace.html#step-5-save-and-enjoy-the-chatbot"
+  },"47": {
     "doc": "Squarespace",
     "title": "Squarespace",
     "content": " ",
-    "url": "http://localhost:4000/installation-guides/squarespace.html",
-    "relUrl": "/installation-guides/squarespace.html"
-  },"38": {
+    "url": "http://localhost:4000/docs/installation-guides/squarespace.html",
+    "relUrl": "/docs/installation-guides/squarespace.html"
+  },"48": {
     "doc": "Tickets",
     "title": "Tickets – Apartment Ocean User Tutorials",
     "content": " ",
-    "url": "http://localhost:4000/tickets.html#tickets--apartment-ocean-user-tutorials",
-    "relUrl": "/tickets.html#tickets--apartment-ocean-user-tutorials"
-  },"39": {
+    "url": "http://localhost:4000/docs/tickets.html#tickets--apartment-ocean-user-tutorials",
+    "relUrl": "/docs/tickets.html#tickets--apartment-ocean-user-tutorials"
+  },"49": {
     "doc": "Tickets",
     "title": "Contact Us",
     "content": "If you want to contact Apartment Ocean, whether it’s a simple question or a request to add a new FAQ, please go to “Tickets” section and send us your inquiry. Once you are logged in, hover on the left sidebar menu and click on “Tickets”. To send an inquiry, write your inquiry in the place provided for questions/requests and click “Submit”. Apartment Ocean will receive your inquiry and provide a timely response, which you will be able to see in the “Tickets” section as well. ",
-    "url": "http://localhost:4000/tickets.html#contact-us",
-    "relUrl": "/tickets.html#contact-us"
-  },"40": {
+    "url": "http://localhost:4000/docs/tickets.html#contact-us",
+    "relUrl": "/docs/tickets.html#contact-us"
+  },"50": {
     "doc": "Tickets",
     "title": "Tickets",
     "content": " ",
-    "url": "http://localhost:4000/tickets.html",
-    "relUrl": "/tickets.html"
-  },"41": {
+    "url": "http://localhost:4000/docs/tickets.html",
+    "relUrl": "/docs/tickets.html"
+  },"51": {
+    "doc": "Turn off chatbot",
+    "title": "Turn off the chatbot",
+    "content": "If your customer representatives are available and want to take over the chat, you can turn off the chatbot. This will disable the chatbot (no more automatic answers) and your representatives can chat directly with the user. How to turn off the chatbot? . Hover over the left sidebar menu, go to the “Messages” section and click on the “Use Bot” button; the chatbot will be disabled for that particular chat. If you’d like to turn it back on, click on the “Use Bot” button again and if there’s a blue color, the chatbot is on again. Tips . You can turn off the chatbot globally, not just for a particular chat but for every new chat you receive, so Apartment Ocean becomes a live-chat tool and your representatives can chat with users. If you’d like to completely turn off the chatbot, hover over the left sidebar menu, go to Widget Customization -&gt; Use Chatbot, and turn it off. ",
+    "url": "http://localhost:4000/docs/command-center/turn-off-chatbot.html#turn-off-the-chatbot",
+    "relUrl": "/docs/command-center/turn-off-chatbot.html#turn-off-the-chatbot"
+  },"52": {
+    "doc": "Turn off chatbot",
+    "title": "Turn off chatbot",
+    "content": " ",
+    "url": "http://localhost:4000/docs/command-center/turn-off-chatbot.html",
+    "relUrl": "/docs/command-center/turn-off-chatbot.html"
+  },"53": {
     "doc": "Weebly",
     "title": "Installing Apartment Ocean on Weebly websites",
     "content": "This is a step by step tutorial to install Apartment Ocean on Weebly. ",
-    "url": "http://localhost:4000/installation-guides/weebly.html#installing-apartment-ocean-on-weebly-websites",
-    "relUrl": "/installation-guides/weebly.html#installing-apartment-ocean-on-weebly-websites"
-  },"42": {
+    "url": "http://localhost:4000/docs/installation-guides/weebly.html#installing-apartment-ocean-on-weebly-websites",
+    "relUrl": "/docs/installation-guides/weebly.html#installing-apartment-ocean-on-weebly-websites"
+  },"54": {
     "doc": "Weebly",
     "title": "Step 1: Log In to your Weebly dashboard",
     "content": "Click the “Log In’ button on nav bar and log in to your Weebly dashboard. ",
-    "url": "http://localhost:4000/installation-guides/weebly.html#step-1-log-in-to-your-weebly-dashboard",
-    "relUrl": "/installation-guides/weebly.html#step-1-log-in-to-your-weebly-dashboard"
-  },"43": {
+    "url": "http://localhost:4000/docs/installation-guides/weebly.html#step-1-log-in-to-your-weebly-dashboard",
+    "relUrl": "/docs/installation-guides/weebly.html#step-1-log-in-to-your-weebly-dashboard"
+  },"55": {
     "doc": "Weebly",
     "title": "Step 2: Click the Settings on navigation menu",
     "content": "Select the Settings. ",
-    "url": "http://localhost:4000/installation-guides/weebly.html#step-2-click-the-settings-on-navigation-menu",
-    "relUrl": "/installation-guides/weebly.html#step-2-click-the-settings-on-navigation-menu"
-  },"44": {
+    "url": "http://localhost:4000/docs/installation-guides/weebly.html#step-2-click-the-settings-on-navigation-menu",
+    "relUrl": "/docs/installation-guides/weebly.html#step-2-click-the-settings-on-navigation-menu"
+  },"56": {
     "doc": "Weebly",
     "title": "Step 3: Click the SEO on the left menu",
     "content": ". ",
-    "url": "http://localhost:4000/installation-guides/weebly.html#step-3-click-the-seo-on-the-left-menu",
-    "relUrl": "/installation-guides/weebly.html#step-3-click-the-seo-on-the-left-menu"
-  },"45": {
+    "url": "http://localhost:4000/docs/installation-guides/weebly.html#step-3-click-the-seo-on-the-left-menu",
+    "relUrl": "/docs/installation-guides/weebly.html#step-3-click-the-seo-on-the-left-menu"
+  },"57": {
     "doc": "Weebly",
     "title": "Step 4: Copy and Paste install code to Footer",
     "content": "Find the widget code in your Apartment Ocean account (“Chatbot Install” section), then copy &amp; paste to Footer Code . ",
-    "url": "http://localhost:4000/installation-guides/weebly.html#step-4-copy-and-paste-install-code-to-footer",
-    "relUrl": "/installation-guides/weebly.html#step-4-copy-and-paste-install-code-to-footer"
-  },"46": {
+    "url": "http://localhost:4000/docs/installation-guides/weebly.html#step-4-copy-and-paste-install-code-to-footer",
+    "relUrl": "/docs/installation-guides/weebly.html#step-4-copy-and-paste-install-code-to-footer"
+  },"58": {
     "doc": "Weebly",
     "title": "Step 5: Save and Publish your site",
     "content": "Click “Save” on the bottom-right to save the code. Then click the Publish button on top-right corner to publish your site. ",
-    "url": "http://localhost:4000/installation-guides/weebly.html#step-5-save-and-publish-your-site",
-    "relUrl": "/installation-guides/weebly.html#step-5-save-and-publish-your-site"
-  },"47": {
+    "url": "http://localhost:4000/docs/installation-guides/weebly.html#step-5-save-and-publish-your-site",
+    "relUrl": "/docs/installation-guides/weebly.html#step-5-save-and-publish-your-site"
+  },"59": {
     "doc": "Weebly",
     "title": "Step 6: Enjoy the chatbot",
     "content": "Now you will see the Apartment Ocean widget on the right side of your website. ",
-    "url": "http://localhost:4000/installation-guides/weebly.html#step-6-enjoy-the-chatbot",
-    "relUrl": "/installation-guides/weebly.html#step-6-enjoy-the-chatbot"
-  },"48": {
+    "url": "http://localhost:4000/docs/installation-guides/weebly.html#step-6-enjoy-the-chatbot",
+    "relUrl": "/docs/installation-guides/weebly.html#step-6-enjoy-the-chatbot"
+  },"60": {
     "doc": "Weebly",
     "title": "Weebly",
     "content": " ",
-    "url": "http://localhost:4000/installation-guides/weebly.html",
-    "relUrl": "/installation-guides/weebly.html"
-  },"49": {
+    "url": "http://localhost:4000/docs/installation-guides/weebly.html",
+    "relUrl": "/docs/installation-guides/weebly.html"
+  },"61": {
     "doc": "Widget customization",
     "title": "Widget Customization – Apartment Ocean User Tutorials",
     "content": "Widget is the messenger your users use to chat with chatbot on your webiste. In this part, you will be able to configure visual and text parts of the Apartment Ocean widget. Let’s look at the parts you can configure and the way you can configure them. ",
-    "url": "http://localhost:4000/widget%20customization.html#widget-customization--apartment-ocean-user-tutorials",
-    "relUrl": "/widget%20customization.html#widget-customization--apartment-ocean-user-tutorials"
-  },"50": {
+    "url": "http://localhost:4000/docs/widget%20customization.html#widget-customization--apartment-ocean-user-tutorials",
+    "relUrl": "/docs/widget%20customization.html#widget-customization--apartment-ocean-user-tutorials"
+  },"62": {
     "doc": "Widget customization",
     "title": "Option 1: Changing a greeting message",
     "content": "Log in to Apartment Ocean dashboard and go to “Widget Customization” section, Option 1. This is a message that users will see as soon as the chatbot starts. The default message is “Hi [username], This is Mary with Apartment Ocean. How are you?”. To change the message, you can write your message in the “greeting message” field. After you are done changing the greeting message, click the “Save” button on the bottom of page to save the change. ",
-    "url": "http://localhost:4000/widget%20customization.html#option-1-changing-a-greeting-message",
-    "relUrl": "/widget%20customization.html#option-1-changing-a-greeting-message"
-  },"51": {
+    "url": "http://localhost:4000/docs/widget%20customization.html#option-1-changing-a-greeting-message",
+    "relUrl": "/docs/widget%20customization.html#option-1-changing-a-greeting-message"
+  },"63": {
     "doc": "Widget customization",
     "title": "Option 2: Changing a Contact Message",
     "content": "This is a message you will use to guide users to contact you on your phone number or email address. The default message is Please call me at 646-789-1234. To change the default message, simply start writing in the message field. When you are done with your message, please click the “Save” button on the bottom of the page to save the changes . ",
-    "url": "http://localhost:4000/widget%20customization.html#option-2-changing-a-contact-message",
-    "relUrl": "/widget%20customization.html#option-2-changing-a-contact-message"
-  },"52": {
+    "url": "http://localhost:4000/docs/widget%20customization.html#option-2-changing-a-contact-message",
+    "relUrl": "/docs/widget%20customization.html#option-2-changing-a-contact-message"
+  },"64": {
     "doc": "Widget customization",
     "title": "Option 3: Logo configuration on the widget",
     "content": "This is the part where you can upload your company logo, or any other icon, which will be shown as soon as the user engages with Apartment Ocean widget. The default logo is Apartment Ocean logo. To change the logo, simply click on the area where logo is placed and upload your own logo. Recommended size is 170 x 170 pixels . When you finished uploading your logo, don’t forget to click on the “Save” button on the bottom of the page to save the change. ",
-    "url": "http://localhost:4000/widget%20customization.html#option-3-logo-configuration-on-the-widget",
-    "relUrl": "/widget%20customization.html#option-3-logo-configuration-on-the-widget"
-  },"53": {
+    "url": "http://localhost:4000/docs/widget%20customization.html#option-3-logo-configuration-on-the-widget",
+    "relUrl": "/docs/widget%20customization.html#option-3-logo-configuration-on-the-widget"
+  },"65": {
     "doc": "Widget customization",
     "title": "Option 4: Configure the widget theme color",
     "content": "This is the part where you can configure the theme color for the widget, so it can match your website/brand color. Current default color is blue (#0096ff), as seen below . To change the color, simply put the color code in the field or choose the color from the color chart. After you are finish configuring the color, click the “Save” button on the bottom of the page to save the change . ",
-    "url": "http://localhost:4000/widget%20customization.html#option-4-configure-the-widget-theme-color",
-    "relUrl": "/widget%20customization.html#option-4-configure-the-widget-theme-color"
-  },"54": {
+    "url": "http://localhost:4000/docs/widget%20customization.html#option-4-configure-the-widget-theme-color",
+    "relUrl": "/docs/widget%20customization.html#option-4-configure-the-widget-theme-color"
+  },"66": {
     "doc": "Widget customization",
     "title": "Option 5: Change the positioning of the widget",
     "content": "You can choose several positions on the website where to place the Apartment Ocean widget. The default position is the on right-center of the website. There are two parts for the configuration of the widget position: horizontal and vertical part: . • On the horizontal part, you can choose from right, center and left placement . • On the vertical part, you can choose from bottom, center and top placement . When you finish configuring the positioning of the widget, please don’t forget to click the “Save” button on the bottom of the page to save the changes . ",
-    "url": "http://localhost:4000/widget%20customization.html#option-5-change-the-positioning-of-the-widget",
-    "relUrl": "/widget%20customization.html#option-5-change-the-positioning-of-the-widget"
-  },"55": {
+    "url": "http://localhost:4000/docs/widget%20customization.html#option-5-change-the-positioning-of-the-widget",
+    "relUrl": "/docs/widget%20customization.html#option-5-change-the-positioning-of-the-widget"
+  },"67": {
     "doc": "Widget customization",
     "title": "Option 6: Configuring user contact inputs",
     "content": "This is the part where you can enable/disable user inputs, which you would like to receive before users engage with the chatbot. The user inputs you can require are the name, email address and phone number. This information, when received, will automatically create a user lead. By default, enabled user inputs are: Name and Email Address. To enable/disable certain input, simply switch on or off the toggle by the input (blue color means the input is on; white color means the input is off) . After you configured the inputs, please click the “Save” button on the bottom of the page to save the changes . ",
-    "url": "http://localhost:4000/widget%20customization.html#option-6-configuring-user-contact-inputs",
-    "relUrl": "/widget%20customization.html#option-6-configuring-user-contact-inputs"
-  },"56": {
+    "url": "http://localhost:4000/docs/widget%20customization.html#option-6-configuring-user-contact-inputs",
+    "relUrl": "/docs/widget%20customization.html#option-6-configuring-user-contact-inputs"
+  },"68": {
     "doc": "Widget customization",
     "title": "Option 7: Setting up the Header Title and Subtitle",
     "content": "Header Title and Subtitle are the words welcoming users to chat. The default Title is We are currently and Subtitle is Online, as it can be see below . To change the Title and Subtitle, simply start typing in each field. When you are done with Header Title and Subtitle, please click on the “Save” button on the bottom of the page to save the changes . ",
-    "url": "http://localhost:4000/widget%20customization.html#option-7-setting-up-the-header-title-and-subtitle",
-    "relUrl": "/widget%20customization.html#option-7-setting-up-the-header-title-and-subtitle"
-  },"57": {
+    "url": "http://localhost:4000/docs/widget%20customization.html#option-7-setting-up-the-header-title-and-subtitle",
+    "relUrl": "/docs/widget%20customization.html#option-7-setting-up-the-header-title-and-subtitle"
+  },"69": {
     "doc": "Widget customization",
     "title": "Option 8: Changing the Chat Title and Subtitle",
     "content": "Chat Title and Subtitle are the taglines above the chat. The default Chat Title is Need help? and Subtitle is You can ask us anything!, as seen below . To change the Chat Title and Subtitle, start typing in the fields. When you are finished with your Chat Title and Subtitle, please click the “Save” button on the bottom of the page to save the changes . ",
-    "url": "http://localhost:4000/widget%20customization.html#option-8-changing-the-chat-title-and-subtitle",
-    "relUrl": "/widget%20customization.html#option-8-changing-the-chat-title-and-subtitle"
-  },"58": {
+    "url": "http://localhost:4000/docs/widget%20customization.html#option-8-changing-the-chat-title-and-subtitle",
+    "relUrl": "/docs/widget%20customization.html#option-8-changing-the-chat-title-and-subtitle"
+  },"70": {
     "doc": "Widget customization",
     "title": "Option 9: Change the name of the Start Button",
     "content": "Start Button is the button that starts the chat between users and the chatbot. The default name of the Start Button is “Start New Chat” (as seen below) . To change the name of the Start Button, please start typing the field. When you made the change, click the “Save” button on the bottom of the page to save the change. ",
-    "url": "http://localhost:4000/widget%20customization.html#option-9-change-the-name-of-the-start-button",
-    "relUrl": "/widget%20customization.html#option-9-change-the-name-of-the-start-button"
-  },"59": {
+    "url": "http://localhost:4000/docs/widget%20customization.html#option-9-change-the-name-of-the-start-button",
+    "relUrl": "/docs/widget%20customization.html#option-9-change-the-name-of-the-start-button"
+  },"71": {
     "doc": "Widget customization",
     "title": "Option 10: Changing the names of Placeholders",
     "content": "Placeholders are fields where users will input information (name, email address, phone number, messages) . Default placeholders can be seen in the picture below . If you would like to change any of these placeholders, please start typing in the field of the placeholder you would like to change. When you finished changing the placeholder names, please don’t forget to click the “Save” button on the bottom of the page to save the changes. ",
-    "url": "http://localhost:4000/widget%20customization.html#option-10-changing-the-names-of-placeholders",
-    "relUrl": "/widget%20customization.html#option-10-changing-the-names-of-placeholders"
-  },"60": {
+    "url": "http://localhost:4000/docs/widget%20customization.html#option-10-changing-the-names-of-placeholders",
+    "relUrl": "/docs/widget%20customization.html#option-10-changing-the-names-of-placeholders"
+  },"72": {
     "doc": "Widget customization",
     "title": "Option 11: Changing the chatbot message position",
     "content": "This is an option to show the chatbot avatar on the left side or right side in the chat. Default position is the left side, as seen below. If you’d like to change the position of the chatbot avatar, please click on the field that shows “left” and choose the ‘right’ option. After you are done changing the position, please click on the “Save” button on the bottom of the page to save the change . ",
-    "url": "http://localhost:4000/widget%20customization.html#option-11-changing-the-chatbot-message-position",
-    "relUrl": "/widget%20customization.html#option-11-changing-the-chatbot-message-position"
-  },"61": {
+    "url": "http://localhost:4000/docs/widget%20customization.html#option-11-changing-the-chatbot-message-position",
+    "relUrl": "/docs/widget%20customization.html#option-11-changing-the-chatbot-message-position"
+  },"73": {
     "doc": "Widget customization",
     "title": "Option 12: Changing the Chatbot Avatar",
     "content": "Chatbot Avatar is a visual representation of the chatbot. It’s an icon next to the messages. The default Chatbot Avatar can be seen in the picture below. To change the default avatar, simply click on the avatar and upload your own avatar/icon that you would like to use. After you changed the Chatbot Avatar, please click the “Save” button on the bottom of the page to save the change . ",
-    "url": "http://localhost:4000/widget%20customization.html#option-12-changing-the-chatbot-avatar",
-    "relUrl": "/widget%20customization.html#option-12-changing-the-chatbot-avatar"
-  },"62": {
+    "url": "http://localhost:4000/docs/widget%20customization.html#option-12-changing-the-chatbot-avatar",
+    "relUrl": "/docs/widget%20customization.html#option-12-changing-the-chatbot-avatar"
+  },"74": {
     "doc": "Widget customization",
     "title": "Option 13: Turning the chatbot on/off",
     "content": "You have an option to completely turn off the chatbot (in this case, Apartment Ocean would serve as a live-chat platform) . The default setting is of course “On”, as seen below . If you’d like to turn the chatbot off and use Apartment Ocean as a live-chat platform, simply click on the “Use Chatbot” button (if the button is white, the chatbot is turned off). After you made the change, please click on the “Save” button on the bottom of the page to save the change. ",
-    "url": "http://localhost:4000/widget%20customization.html#option-13-turning-the-chatbot-onoff",
-    "relUrl": "/widget%20customization.html#option-13-turning-the-chatbot-onoff"
-  },"63": {
+    "url": "http://localhost:4000/docs/widget%20customization.html#option-13-turning-the-chatbot-onoff",
+    "relUrl": "/docs/widget%20customization.html#option-13-turning-the-chatbot-onoff"
+  },"75": {
     "doc": "Widget customization",
     "title": "Option 14: Setting-up the auto pop up",
     "content": "Auto pop-up is the ability for the widget to pop up to engage with users on the website. The default setting is 7 seconds (7 seconds after the users came to the website, the chatbot will pop up). To change the auto pop-up time, simply click on the “Auto pop up” field and put the number of seconds that needs to pass for the chatbot to pop up (if you don’t want the chatbot to pop-up, put zero). After you changed the setting, please click on the “Save” button on the bottom of the page to save this change. ",
-    "url": "http://localhost:4000/widget%20customization.html#option-14-setting-up-the-auto-pop-up",
-    "relUrl": "/widget%20customization.html#option-14-setting-up-the-auto-pop-up"
-  },"64": {
+    "url": "http://localhost:4000/docs/widget%20customization.html#option-14-setting-up-the-auto-pop-up",
+    "relUrl": "/docs/widget%20customization.html#option-14-setting-up-the-auto-pop-up"
+  },"76": {
     "doc": "Widget customization",
     "title": "Option 15: Sound notification for new message",
     "content": "You would only receive the notification if you’re logged in to your Apartment Ocean account and you are in the “Messages” section of your dashboard. The default setting is “On”, as seen below . If you don’t want to receive a sound notification for every new message, simply turn off the switch (if the switch is white, then the sound notification is off). After your made the change, please click on the “Save” button on the bottom of the page to save this change. ",
-    "url": "http://localhost:4000/widget%20customization.html#option-15-sound-notification-for-new-message",
-    "relUrl": "/widget%20customization.html#option-15-sound-notification-for-new-message"
-  },"65": {
+    "url": "http://localhost:4000/docs/widget%20customization.html#option-15-sound-notification-for-new-message",
+    "relUrl": "/docs/widget%20customization.html#option-15-sound-notification-for-new-message"
+  },"77": {
     "doc": "Widget customization",
     "title": "Widget customization",
     "content": " ",
-    "url": "http://localhost:4000/widget%20customization.html",
-    "relUrl": "/widget%20customization.html"
-  },"66": {
+    "url": "http://localhost:4000/docs/widget%20customization.html",
+    "relUrl": "/docs/widget%20customization.html"
+  },"78": {
     "doc": "Wordpress",
     "title": "WordPress &amp; Apartment Ocean: Easy Installing with Plugins",
     "content": "There are a few ways to get Apartment Ocean working on your site if you use WordPress. The simplest and fastest way is to use a plugin. ",
-    "url": "http://localhost:4000/installation-guides/wordpress.html#wordpress--apartment-ocean-easy-installing-with-plugins",
-    "relUrl": "/installation-guides/wordpress.html#wordpress--apartment-ocean-easy-installing-with-plugins"
-  },"67": {
+    "url": "http://localhost:4000/docs/installation-guides/wordpress.html#wordpress--apartment-ocean-easy-installing-with-plugins",
+    "relUrl": "/docs/installation-guides/wordpress.html#wordpress--apartment-ocean-easy-installing-with-plugins"
+  },"79": {
     "doc": "Wordpress",
     "title": "Finding the Plugin",
     "content": "For this tutorial, we suggest using the Head and Footer Scripts Inserter plugin. This plugin will help you get Apartment ocean on every page on your website. To access this plugin, log in to your WordPress account and look for the ‘Plugins’ option in the menu on the left side of your Dashboard. From the Plugins page, click the ‘Add New’ button at the top. Enter ‘Head and Footer Scripts Inserter’ in the search box and hit ‘Enter’ on your keyboard. The first plugin that shows up should be the one to install. Click the ‘Install Now’ button. On the next screen, you should be able to activate the plugin. ",
-    "url": "http://localhost:4000/installation-guides/wordpress.html#finding-the-plugin",
-    "relUrl": "/installation-guides/wordpress.html#finding-the-plugin"
-  },"68": {
+    "url": "http://localhost:4000/docs/installation-guides/wordpress.html#finding-the-plugin",
+    "relUrl": "/docs/installation-guides/wordpress.html#finding-the-plugin"
+  },"80": {
     "doc": "Wordpress",
     "title": "Getting the Apartment Ocean Chatbot on Your Site",
     "content": "To install Apartment Ocean, you’ll need to edit the settings of the Head and Footer Scripts Inserter plugin just installed. Click the ‘Plugins’ option in the dashboard menu and look for the Head and Footer Scripts Inserter plugin. Click ‘Settings’. On the next screen, paste the Apartment Ocean script. Click the blue ‘Save Changes’ to save the script to the plugin and your site. Paste the script from your Apartment Ocean account here. And You’re Done! . When you look at your site now, you should see the Apartment Ocean widget. ",
-    "url": "http://localhost:4000/installation-guides/wordpress.html#getting-the-apartment-ocean-chatbot-on-your-site",
-    "relUrl": "/installation-guides/wordpress.html#getting-the-apartment-ocean-chatbot-on-your-site"
-  },"69": {
+    "url": "http://localhost:4000/docs/installation-guides/wordpress.html#getting-the-apartment-ocean-chatbot-on-your-site",
+    "relUrl": "/docs/installation-guides/wordpress.html#getting-the-apartment-ocean-chatbot-on-your-site"
+  },"81": {
     "doc": "Wordpress",
     "title": "Wordpress",
     "content": " ",
-    "url": "http://localhost:4000/installation-guides/wordpress.html",
-    "relUrl": "/installation-guides/wordpress.html"
+    "url": "http://localhost:4000/docs/installation-guides/wordpress.html",
+    "relUrl": "/docs/installation-guides/wordpress.html"
   }
 }

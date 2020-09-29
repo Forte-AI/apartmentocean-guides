@@ -2,6 +2,7 @@
 layout: default
 title: Messages
 description: Message in Apartment Ocean dashboard
+has_children: true
 nav_order: 2
 ---
 

@@ -479,24 +479,72 @@
     "url": "http://localhost:4000/docs/widget%20customization.html",
     "relUrl": "/docs/widget%20customization.html"
   },"80": {
+    "doc": "Wix",
+    "title": "Installing Apartment Ocean on Wix websites",
+    "content": "Installing Apartment Ocean on Wix.com websites is a simple process. There are two steps in order to do it: . 1.) Copy the Apartment Ocean script; . 2.) Paste the script to the body section of WIx.com websites; . Detailed installation instructions are below. ",
+    "url": "http://localhost:4000/docs/installation-guides/wix.html#installing-apartment-ocean-on-wix-websites",
+    "relUrl": "/docs/installation-guides/wix.html#installing-apartment-ocean-on-wix-websites"
+  },"81": {
+    "doc": "Wix",
+    "title": "Step 1: Getting the Apartment Ocean script",
+    "content": "Log in to your Apartment Ocean account, hover over the left sidebar menu and click on “Chatbot Install”. ",
+    "url": "http://localhost:4000/docs/installation-guides/wix.html#step-1-getting-the-apartment-ocean-script",
+    "relUrl": "/docs/installation-guides/wix.html#step-1-getting-the-apartment-ocean-script"
+  },"82": {
+    "doc": "Wix",
+    "title": "Step 2: Copy the Apartment Ocean script",
+    "content": "Once you are in the “Chatbot Install” section, click “Copy”. ",
+    "url": "http://localhost:4000/docs/installation-guides/wix.html#step-2-copy-the-apartment-ocean-script",
+    "relUrl": "/docs/installation-guides/wix.html#step-2-copy-the-apartment-ocean-script"
+  },"83": {
+    "doc": "Wix",
+    "title": "Step 3: Go to Wix.com Settings",
+    "content": "Log in to your Wix.com website with your administrator account. Find “Settings” on the left sidebar menu, and click on it. ",
+    "url": "http://localhost:4000/docs/installation-guides/wix.html#step-3-go-to-wixcom-settings",
+    "relUrl": "/docs/installation-guides/wix.html#step-3-go-to-wixcom-settings"
+  },"84": {
+    "doc": "Wix",
+    "title": "Step 4: Go to Tracking tools",
+    "content": "After you clicked on “Settings”, another menu will show. Find the “Advanced Settings”, and click on the “Tracking Tools” option. ",
+    "url": "http://localhost:4000/docs/installation-guides/wix.html#step-4-go-to-tracking-tools",
+    "relUrl": "/docs/installation-guides/wix.html#step-4-go-to-tracking-tools"
+  },"85": {
+    "doc": "Wix",
+    "title": "Step 5: Got to New Tool",
+    "content": "Find and click the “+ New Tool” option in the Tacking Tools part. Then click on ”&lt;/&gt; Custom” from the menu. ",
+    "url": "http://localhost:4000/docs/installation-guides/wix.html#step-5-got-to-new-tool",
+    "relUrl": "/docs/installation-guides/wix.html#step-5-got-to-new-tool"
+  },"86": {
+    "doc": "Wix",
+    "title": "Step 6: Paste the Apartment Ocean install script",
+    "content": "Find the field labeled “Paste the code snippet here:”, choose “Body - start” from the “Place code in” option, and paste the Apartment Ocean script code you copied in the Step 1. Click “Apply” button to save your code snippet and your are all set! Now you can see the Apartment Ocean chat widet on your Wix website now. Last edit: 2020/10/13 . ",
+    "url": "http://localhost:4000/docs/installation-guides/wix.html#step-6-paste-the-apartment-ocean-install-script",
+    "relUrl": "/docs/installation-guides/wix.html#step-6-paste-the-apartment-ocean-install-script"
+  },"87": {
+    "doc": "Wix",
+    "title": "Wix",
+    "content": " ",
+    "url": "http://localhost:4000/docs/installation-guides/wix.html",
+    "relUrl": "/docs/installation-guides/wix.html"
+  },"88": {
     "doc": "Wordpress",
     "title": "WordPress &amp; Apartment Ocean: Easy Installing with Plugins",
     "content": "There are a few ways to get Apartment Ocean working on your site if you use WordPress. The simplest and fastest way is to use a plugin. ",
     "url": "http://localhost:4000/docs/installation-guides/wordpress.html#wordpress--apartment-ocean-easy-installing-with-plugins",
     "relUrl": "/docs/installation-guides/wordpress.html#wordpress--apartment-ocean-easy-installing-with-plugins"
-  },"81": {
+  },"89": {
     "doc": "Wordpress",
     "title": "Finding the Plugin",
     "content": "For this tutorial, we suggest using the Head and Footer Scripts Inserter plugin. This plugin will help you get Apartment ocean on every page on your website. To access this plugin, log in to your WordPress account and look for the ‘Plugins’ option in the menu on the left side of your Dashboard. From the Plugins page, click the ‘Add New’ button at the top. Enter ‘Head and Footer Scripts Inserter’ in the search box and hit ‘Enter’ on your keyboard. The first plugin that shows up should be the one to install. Click the ‘Install Now’ button. On the next screen, you should be able to activate the plugin. ",
     "url": "http://localhost:4000/docs/installation-guides/wordpress.html#finding-the-plugin",
     "relUrl": "/docs/installation-guides/wordpress.html#finding-the-plugin"
-  },"82": {
+  },"90": {
     "doc": "Wordpress",
     "title": "Getting the Apartment Ocean Chatbot on Your Site",
     "content": "To install Apartment Ocean, you’ll need to edit the settings of the Head and Footer Scripts Inserter plugin just installed. Click the ‘Plugins’ option in the dashboard menu and look for the Head and Footer Scripts Inserter plugin. Click ‘Settings’. On the next screen, paste the Apartment Ocean script. Click the blue ‘Save Changes’ to save the script to the plugin and your site. Paste the script from your Apartment Ocean account here. And You’re Done! . When you look at your site now, you should see the Apartment Ocean widget. ",
     "url": "http://localhost:4000/docs/installation-guides/wordpress.html#getting-the-apartment-ocean-chatbot-on-your-site",
     "relUrl": "/docs/installation-guides/wordpress.html#getting-the-apartment-ocean-chatbot-on-your-site"
-  },"83": {
+  },"91": {
     "doc": "Wordpress",
     "title": "Wordpress",
     "content": " ",

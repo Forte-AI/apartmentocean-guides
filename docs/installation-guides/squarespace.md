@@ -3,7 +3,7 @@ layout: page
 title: Squarespace
 description: Squarespace guides 
 parent: Installation Tutorial
-nav_order: 4
+nav_order: 5
 ---
 
 # Installing Apartment Ocean on Squarespace websites

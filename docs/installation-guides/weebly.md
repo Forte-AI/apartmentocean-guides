@@ -3,7 +3,7 @@ layout: page
 title: Weebly
 description: Weebly guides 
 parent: Installation Tutorial
-nav_order: 5
+nav_order: 6
 ---
 
 # Installing Apartment Ocean on Weebly websites

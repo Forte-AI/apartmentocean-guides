@@ -11,7 +11,7 @@ Widget is the messenger your users use to chat with chatbot on your webiste. In 
 
 <img src="/assets/images/widget.jpg">
 
-## Option 1: Changing a greeting message
+## Option 1: Change a greeting message
 
 Log in to Apartment Ocean dashboard and go to “Widget Customization” section, Option 1.
 
@@ -21,7 +21,7 @@ To change the message, you can write your message in the “greeting message” 
 
 <img src="/assets/images/widget1.jpg">
 
-## Option 2: Changing a Contact Message
+## Option 2: Change a Contact Message
 
 This is a message you will use to guide users to contact you on your phone number or email address. The default message is ```Please call me at 646-789-1234```.
 

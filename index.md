@@ -8,6 +8,6 @@ nav_order: 1
 
 ## Welcome to Apartment Ocean
 
-Apartment Ocean makes your company available 24/7 to your customers and help you increase user conversion and engagement. The main function of the Apartment Ocean is to understand what users need on your website and provide necessary information. 
+Apartment Ocean provides a 24/7 chat support to your customers and increases conversion on your website. It serves as the first line of customer support with the ability to provide the information your customers need.
 
-We will show you how to use Apartment Ocean dashboard here.
+You will learn how to use the Apartment Ocean dashboard in this tutorial.

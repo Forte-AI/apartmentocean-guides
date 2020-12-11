@@ -35,107 +35,107 @@
     "url": "http://localhost:4000/README.html",
     "relUrl": "/README.html"
   },"6": {
+    "doc": "Add images",
+    "title": "Add images to answers",
+    "content": "The command center fully supports the HTML language. To insert an image into your answers, you need to place &lt;img&gt; tag in the answers. ",
+    "url": "http://localhost:4000/docs/command-center/add_images.html#add-images-to-answers",
+    "relUrl": "/docs/command-center/add_images.html#add-images-to-answers"
+  },"7": {
+    "doc": "Add images",
+    "title": "Step 1: Edit the answer",
+    "content": "Click the pencil button to start editing the answer. Write your answer in the “Bot Answers” text field. ",
+    "url": "http://localhost:4000/docs/command-center/add_images.html#step-1-edit-the-answer",
+    "relUrl": "/docs/command-center/add_images.html#step-1-edit-the-answer"
+  },"8": {
+    "doc": "Add images",
+    "title": "Step 2: Insert the image",
+    "content": "If you would like to place the image on top of your answer, you need to put &lt;img&gt; before the link to your image. The example below shows a simple way on how to add an image from Google search . (This is just an example to show you how to copy and add an image link. Some images are protected by copyright, so please make sure you have the authorization to use them). We did a simple google search for images and found an image we’d like to use. We can right click on the image and choose Copy Image Address to copy the link of that image. In this example, our Image Address is https://www.gannett-cdn.com/media/2018/12/15/USATODAY/usatsports/MotleyFool-TMOT-657f0436-21e9af86.jpg . Now, we go back to our answer and paste the link with the image tag (as shown below). &lt;img src=\"https:\\//www.gannett-cdn.com/media/2018/12/15/USATODAY/usatsports/MotleyFool-TMOT-657f0436-21e9af86.jpg\" width=\"230\"&gt; . PAY ATTENTION HERE: We must add ‘\\’ between ‘https:’ and ‘//www’. Or the image won’t be shown correctly. We can change the width of the image too. Our recommended width is 230 pixels. If you’d like to change other HTML attributes such as “height”, you can do that as well. ",
+    "url": "http://localhost:4000/docs/command-center/add_images.html#step-2-insert-the-image",
+    "relUrl": "/docs/command-center/add_images.html#step-2-insert-the-image"
+  },"9": {
+    "doc": "Add images",
+    "title": "Step 3: Save your answer",
+    "content": "Click the “Save” button to save your answer. Next time when a user asks a questions that will trigger this intent, your chatbot will provide the new answer with the image. ",
+    "url": "http://localhost:4000/docs/command-center/add_images.html#step-3-save-your-answer",
+    "relUrl": "/docs/command-center/add_images.html#step-3-save-your-answer"
+  },"10": {
+    "doc": "Add images",
+    "title": "Add images",
+    "content": " ",
+    "url": "http://localhost:4000/docs/command-center/add_images.html",
+    "relUrl": "/docs/command-center/add_images.html"
+  },"11": {
     "doc": "Command center",
     "title": "Command Center – Apartment Ocean User Tutorials",
     "content": "Command Center is a place where you can manage quick replies (Commands) and add/edit the answers to frequently asked questions (Smart FAQ). ",
     "url": "http://localhost:4000/docs/command-center/command-center.html#command-center--apartment-ocean-user-tutorials",
     "relUrl": "/docs/command-center/command-center.html#command-center--apartment-ocean-user-tutorials"
-  },"7": {
+  },"12": {
     "doc": "Command center",
     "title": "How to access Command Center?",
     "content": "Log in to your Apartment Ocean account, hover over the left sidebar menu and click on the menu item “Command Center” to access it. ",
     "url": "http://localhost:4000/docs/command-center/command-center.html#how-to-access-command-center",
     "relUrl": "/docs/command-center/command-center.html#how-to-access-command-center"
-  },"8": {
+  },"13": {
     "doc": "Command center",
     "title": "Commands and Smart FAQ",
     "content": " ",
     "url": "http://localhost:4000/docs/command-center/command-center.html#commands-and-smart-faq",
     "relUrl": "/docs/command-center/command-center.html#commands-and-smart-faq"
-  },"9": {
+  },"14": {
     "doc": "Command center",
     "title": "1. Commands",
     "content": "Commands are quick replies that are shown as buttons on the widget. Instead of typing, users can click on Commands and get the information they need. Once you click on the “Command Center” button, you will see a section called “Command sets for chatbot”. This is where you can manage Commands. How to edit Commands? . a. Click on the pencil icon next to Command; . b. Delete the existing Command and write your own Command. Click “Save” (as seen in the picture below). The change will be saved instantly, and the Command will be ready to be used; . Tips . Commands correspond with the Smart FAQs. There’s a place in the Smart FAQ section called “Suggested Quick Reply Option”, which serves as a suggestion for your Command. ",
     "url": "http://localhost:4000/docs/command-center/command-center.html#1-commands",
     "relUrl": "/docs/command-center/command-center.html#1-commands"
-  },"10": {
+  },"15": {
     "doc": "Command center",
     "title": "2. Smart FAQ",
     "content": "Smart FAQ is a query that chatbot can recognize, understand and provide an answer to. In this part, you will be able to see all FAQs that the chatbot can understand and where you can add or edit answers to FAQs. How to add/edit Smart FAQ? . a. Click on the pencil button next to the FAQ; . b. Add/edit the answer in the “Bot Answers” window, click “Save”. Your change is immediately saved and whenever users ask a question that will trigger this Smart FAQ, chatbot will provide your new answer; . ",
     "url": "http://localhost:4000/docs/command-center/command-center.html#2-smart-faq",
     "relUrl": "/docs/command-center/command-center.html#2-smart-faq"
-  },"11": {
+  },"16": {
     "doc": "Command center",
     "title": "Command center",
     "content": " ",
     "url": "http://localhost:4000/docs/command-center/command-center.html",
     "relUrl": "/docs/command-center/command-center.html"
-  },"12": {
+  },"17": {
     "doc": "Contacts",
     "title": "Contacts – Apartment Ocean User Tutorials",
     "content": " ",
     "url": "http://localhost:4000/contacts.html#contacts--apartment-ocean-user-tutorials",
     "relUrl": "/contacts.html#contacts--apartment-ocean-user-tutorials"
-  },"13": {
+  },"18": {
     "doc": "Contacts",
     "title": "Contact Management",
     "content": "As soon as a user engages with Apartment Ocean, a new contact is created. Every contact is stored in the “Contacts” part in your Dashboard. To access leads, please hover on the left sidebar menu and click on “Contacts”. In the “Contacts” section, you will find several data points included in the lead. The contact consists user’s contact information, such as name. email address and phone number. You control what contact information that Apartment Ocean captures (“Widget Customization” -&gt; Option 6) . Along with the contact information, Apartment Ocean also captures three other data points: . | User’s referral source (website or page prior to the page where the user initiated the chat); . | Actual page where the user initiated the chat; . | User’s device; . | . ",
     "url": "http://localhost:4000/contacts.html#contact-management",
     "relUrl": "/contacts.html#contact-management"
-  },"14": {
+  },"19": {
     "doc": "Contacts",
     "title": "Contacts",
     "content": " ",
     "url": "http://localhost:4000/contacts.html",
     "relUrl": "/contacts.html"
-  },"15": {
+  },"20": {
     "doc": "Home",
     "title": "Apartment Ocean User Tutorials",
     "content": " ",
     "url": "http://localhost:4000/#apartment-ocean-user-tutorials",
     "relUrl": "/#apartment-ocean-user-tutorials"
-  },"16": {
+  },"21": {
     "doc": "Home",
     "title": "Welcome to Apartment Ocean",
-    "content": "Apartment Ocean makes your company available 24/7 to your customers and help you increase user conversion and engagement. The main function of the Apartment Ocean is to understand what users need on your website and provide necessary information. We will show you how to use Apartment Ocean dashboard here. ",
+    "content": "Apartment Ocean provides a 24/7 chat support to your customers and increases conversion on your website. It serves as the first line of customer support with the ability to provide the information your customers need. You will learn how to use the Apartment Ocean dashboard in this tutorial. ",
     "url": "http://localhost:4000/#welcome-to-apartment-ocean",
     "relUrl": "/#welcome-to-apartment-ocean"
-  },"17": {
+  },"22": {
     "doc": "Home",
     "title": "Home",
     "content": " ",
     "url": "http://localhost:4000/",
     "relUrl": "/"
-  },"18": {
-    "doc": "Insert pictures",
-    "title": "Insert pictures in the answers",
-    "content": "The command center supports the HTML language. To insert a picture in the answers, you need to place a tag in the answers. ",
-    "url": "http://localhost:4000/docs/command-center/insert-picture.html#insert-pictures-in-the-answers",
-    "relUrl": "/docs/command-center/insert-picture.html#insert-pictures-in-the-answers"
-  },"19": {
-    "doc": "Insert pictures",
-    "title": "Step 1: Click the Edit icon on the intent",
-    "content": "Click the icon to start editing the answers for the intent. and you will see a text field where you can write your own answer. ",
-    "url": "http://localhost:4000/docs/command-center/insert-picture.html#step-1-click-the-edit-icon-on-the-intent",
-    "relUrl": "/docs/command-center/insert-picture.html#step-1-click-the-edit-icon-on-the-intent"
-  },"20": {
-    "doc": "Insert pictures",
-    "title": "Step 2: Insert the picture",
-    "content": "If you would like to show the picture on top of your answer, you need to add an &lt;img&gt; with the link to your pictures. The example below shows your how to add a picture from a Google search. The same method works on all the websites. We did a google picture search and found a picture we’d like to show to users. We can right click the picture and choose Copy Image Address to copy the link of your picture. In this example, our Image Address is https://www.gannett-cdn.com/media/2018/12/15/USATODAY/usatsports/MotleyFool-TMOT-657f0436-21e9af86.jpg . We go back to our answers and paste the link in an image tag like this: . &lt;img src=\"https:\\//www.gannett-cdn.com/media/2018/12/15/USATODAY/usatsports/MotleyFool-TMOT-657f0436-21e9af86.jpg\" width=\"230\"&gt; . PAY ATTENTION HERE: We must add a ‘\\’ between ‘:’ and ‘//’. Or the widget would not show the picture correctly. We can add a width to the picture too. Our recommended width is 230 pixels. If you’d like to add other HTML attributes such as “height”, you can play with that too. ",
-    "url": "http://localhost:4000/docs/command-center/insert-picture.html#step-2-insert-the-picture",
-    "relUrl": "/docs/command-center/insert-picture.html#step-2-insert-the-picture"
-  },"21": {
-    "doc": "Insert pictures",
-    "title": "Step 3: Click the “Save” button to save your answer",
-    "content": "Click the green “Save” button to save your answers. So, when user asks about this intent, your chatbot will show the picture along with the text you just wrote to your users. ",
-    "url": "http://localhost:4000/docs/command-center/insert-picture.html#step-3-click-the-save-button-to-save-your-answer",
-    "relUrl": "/docs/command-center/insert-picture.html#step-3-click-the-save-button-to-save-your-answer"
-  },"22": {
-    "doc": "Insert pictures",
-    "title": "Insert pictures",
-    "content": " ",
-    "url": "http://localhost:4000/docs/command-center/insert-picture.html",
-    "relUrl": "/docs/command-center/insert-picture.html"
   },"23": {
     "doc": "Installation Tutorial",
     "title": "Apartment Ocean Installation Tutorial",
@@ -384,16 +384,16 @@
     "relUrl": "/docs/widget%20customization.html#widget-customization--apartment-ocean-user-tutorials"
   },"64": {
     "doc": "Widget customization",
-    "title": "Option 1: Changing a greeting message",
+    "title": "Option 1: Change a greeting message",
     "content": "Log in to Apartment Ocean dashboard and go to “Widget Customization” section, Option 1. This is a message that users will see as soon as the chatbot starts. The default message is “Hi [username], This is Mary with Apartment Ocean. How are you?”. To change the message, you can write your message in the “greeting message” field. After you are done changing the greeting message, click the “Save” button on the bottom of page to save the change. ",
-    "url": "http://localhost:4000/docs/widget%20customization.html#option-1-changing-a-greeting-message",
-    "relUrl": "/docs/widget%20customization.html#option-1-changing-a-greeting-message"
+    "url": "http://localhost:4000/docs/widget%20customization.html#option-1-change-a-greeting-message",
+    "relUrl": "/docs/widget%20customization.html#option-1-change-a-greeting-message"
   },"65": {
     "doc": "Widget customization",
-    "title": "Option 2: Changing a Contact Message",
+    "title": "Option 2: Change a Contact Message",
     "content": "This is a message you will use to guide users to contact you on your phone number or email address. The default message is Please call me at 646-789-1234. To change the default message, simply start writing in the message field. When you are done with your message, please click the “Save” button on the bottom of the page to save the changes . ",
-    "url": "http://localhost:4000/docs/widget%20customization.html#option-2-changing-a-contact-message",
-    "relUrl": "/docs/widget%20customization.html#option-2-changing-a-contact-message"
+    "url": "http://localhost:4000/docs/widget%20customization.html#option-2-change-a-contact-message",
+    "relUrl": "/docs/widget%20customization.html#option-2-change-a-contact-message"
   },"66": {
     "doc": "Widget customization",
     "title": "Option 3: Logo configuration on the widget",

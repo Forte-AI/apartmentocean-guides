@@ -8,7 +8,7 @@ nav order: 2
 
 # Add images to answers
 
-The command center fully supports the HTML language. To insert an image into your answers, you need to place <img> tag in the answers. 
+The command center fully supports the HTML language. To insert an image into your answers, you need to place ```<img>``` tag in the answers. 
 
 ## Step 1: Edit the answer
 Click the pencil button to start editing the answer.
@@ -20,7 +20,9 @@ Write your answer in the "Bot Answers" text field.
 <img src="/assets/images/insert-pic2.png">
 
 ## Step 2: Insert the image
-If you would like to place the image on top of your answer, you need to put ```<img>``` before the link to your image. The example below shows a simple way on how to add an image from Google search (This is just an example to show you how to copy and add an image link. Some images are protected by copyright, so please make sure you have the authorization to use them).
+If you would like to place the image on top of your answer, you need to put ```<img>``` before the link to your image. The example below shows a simple way on how to add an image from Google search
+
+<i>**(This is just an example to show you how to copy and add an image link. Some images are protected by copyright, so please make sure you have the authorization to use them).**</i>
 
 <img src="/assets/images/insert-pic3.png">
 
